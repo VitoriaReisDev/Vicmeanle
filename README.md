@@ -14,7 +14,7 @@
   <tr>
     <td width="65%" valign="top">
       <h3>Oi! É a Vitória ;)</h3>
-      <p>Cursando o 2° semestre de Engenharia de Software e em constante evolução no desenvolvimento de software. Tenho familiaridade com linguagens como <b>Python</b> e <b>Java</b>, e atualmente estou aprofundando meus conhecimentos para entender a fundo o funcionamento e ecossistema do <b>JavaScript</b>. Como desenvolvedora Trainee, adoro construir sites e projetos aleatórios como forma de testar meus conhecimentos práticos em lógica e Front-End.</p>
+      <p>Cursando o 2° semestre de Engenharia de Software e em constante evolução no desenvolvimento de software. Tenho familiaridade com linguagens como <b>Python</b> e <b>Java</b>, e atualmente estou aprofundando meus conhecimentos para entender a fundo o funcionamento e ecossistema do <b>JavaScript</b>. Como desenvolvedora Trainee, adoro construir sites e projetos aleatórios como forma de testar meus conhecimentos práticos in lógica e Front-End.</p>
     </td>
     <td width="35%" align="right" valign="middle">
       <!-- IMAGEM DA LAIN ESPIRAL -->
@@ -40,7 +40,7 @@
       </p>
       <!-- PROJETO 2: RESERVADO -->
       <p>
-        <img src="https://img.shields.io/badge/NEXT_PROJECT-000000?style=for-the-badge" alt="Loading">
+        <img src="https://img.shields.io/badge/LOADING__NEW__PROJECT-000000?style=for-the-badge" alt="Loading">
         &nbsp;&nbsp;Em desenvolvimento... Criando aplicações e scripts para consolidar os estudos de JavaScript.
       </p>
     </td>
